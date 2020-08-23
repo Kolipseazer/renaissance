@@ -1318,4 +1318,4 @@ async def help(ctx):
 	await page.start()
 
 #START BOT
-bot.run(config.TOKEN)
+token=os.environ.get('BOTTOKEN')
