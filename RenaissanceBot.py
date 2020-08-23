@@ -1319,3 +1319,4 @@ async def help(ctx):
 
 #START BOT
 token=os.environ.get('BOTTOKEN')
+bot.run(str(token))
