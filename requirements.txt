@@ -1,0 +1,9 @@
+discord
+random
+asyncio
+datetime
+locale
+json
+sqlite3
+Cybernator
+os
