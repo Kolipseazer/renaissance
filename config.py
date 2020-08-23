@@ -1,5 +1,4 @@
 # Bot settings
-TOKEN = 'NzM5OTcwNzM0MDYyODI5NjMx.XyiNcg.OPX02QqXC2G4myZejn6OUhn5SiU'
 ID = 739970734062829631
 PREFIX = '-'
 NAME = 'Renaissance BOT'
